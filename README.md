@@ -1,0 +1,2 @@
+# Teste_Software_2025_gessica_santos_leticia_cavalcanti_maria_diniz_pedro_santos_wenderson_silva
+Repositório da atividade 1 da disciplina Teste de Software
